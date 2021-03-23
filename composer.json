@@ -10,7 +10,7 @@
 
     "autoload":{
         "psr-4": {
-              "Php\\Exam\\": "Psr/Log"
+              "Php\\Exam\\": "Psr/"
           }
       }
 }
