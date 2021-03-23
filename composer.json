@@ -1,1 +1,8 @@
-
+{
+    "name": "logger/logger.php",
+    "description": "test install",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
