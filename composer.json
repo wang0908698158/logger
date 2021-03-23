@@ -1,5 +1,5 @@
 {
-    "name": "logger/logger.php",
+    "name": "test/logger.php",
     "description": "test install",
     "require": {
         "php": ">=7.4",
