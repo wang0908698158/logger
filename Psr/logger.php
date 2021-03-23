@@ -6,7 +6,7 @@ use Psr\Log\LoggerInterface;
 class Logger
 {
     function __construct(){
-        echo "!!!!!!!!!!!!@@@@@@@@@@@@";
+        echo "!!!!!!!!!!!!@@@@@@@@@@@@".PHP_EOL;
     }
 }
 
