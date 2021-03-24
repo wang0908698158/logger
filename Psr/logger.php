@@ -15,9 +15,7 @@ class Logger implements LoggerInterface
         echo "notice".PHP_EOL;
     }
 
-    public function debug($message, array $context = array() ) {
-        echo "notice".PHP_EOL;
-    }
+    
 }
 
 ?>
